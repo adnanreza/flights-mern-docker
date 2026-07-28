@@ -1,0 +1,42 @@
+[
+  {
+    "code": "YVR",
+    "city": "Vancouver",
+    "province": "BC"
+  },
+  {
+    "code": "YYC",
+    "city": "Calgary",
+    "province": "AB"
+  },
+  {
+    "code": "YEG",
+    "city": "Edmonton",
+    "province": "AB"
+  },
+  {
+    "code": "YWG",
+    "city": "Winnipeg",
+    "province": "MB"
+  },
+  {
+    "code": "YYZ",
+    "city": "Toronto",
+    "province": "ON"
+  },
+  {
+    "code": "YOW",
+    "city": "Ottawa",
+    "province": "ON"
+  },
+  {
+    "code": "YUL",
+    "city": "Montreal",
+    "province": "QC"
+  },
+  {
+    "code": "YHZ",
+    "city": "Halifax",
+    "province": "NS"
+  }
+]
